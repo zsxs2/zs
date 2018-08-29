@@ -5,7 +5,7 @@ var feed_data = {
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNSbFY0YkhCag==", "ZEM1amJpOVNSbFY0YkZsVg==", "ZEM1amJpOVNSbFY0YkdGdQ=="]
+                 "value": [ "ZEM1amJpOVNSbFY0YkhCag==", "ZEM1amJpOVNSbFY0YkZrMA==", "ZEM1amJpOVNSbFY0YkdFNA=="]
                }, 
    "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV5T1M0MU1RPT0=", "TVRFNExqRTJOeTQ1T1M0eE16ST0=", "TVRFMExqSTFMakV5T1M0MU1RPT0="]
