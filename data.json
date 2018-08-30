@@ -5,14 +5,14 @@ var feed_data = {
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNSbFY0Ykc1Vw==", "ZEM1amJpOVNSbFY0YkhCVw==", "ZEM1amJpOVNSbFY0YkZsVg=="]
+                 "value": [ "ZEM1amJpOVNSbFY0YkhCSg==", "ZEM1amJpOVNSbFY0YkdFNA==", "ZEM1amJpOVNSbFY0YkdGUw=="]
                }, 
    
    "fo04url": { "name": "fo04",
                  "value": [ "TVRFMExqSTFMakV5T1M0MU1RPT0=", "TVRFeExqSTBNUzQxTkM0eE1EYz0=", "TVRFMExqSTFMakV5T1M0MU1RPT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMams0TGpjeQ==", "TmpFdU1qSTRMakU0Tnk0eE1qUT0=", "WkROM1lUWmtaR2h3ZG5NMFppNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
+                 "value": [ "TmpFdU1qSTRMakl4TkM0eE1qVT0=", "TmpFdU1qSTRMakU0Tnk0eE1qUT0=", "WkROM1lUWmtaR2h3ZG5NMFppNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
                },
   "ogColl": { "name": "网门",
                  "value": [ "ZEM1amJpOVNSbkZ4ZEVwWg==", "ZEM1amJpOVNSbkZ4ZEhCTg=="]
