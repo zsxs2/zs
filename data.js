@@ -1,24 +1,24 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRoNU9UbDBZVE56YWpVemNDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGbWRYTnBaWEowZVdad2FYb3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJeFlqVTFkbW80TjI4MVlYRXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkRGellXZzViM1ZoTnpKa2RTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkROc2N6ZGhOVGc1YkRCaWJqa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROME1uTTJlR3BvZGpoNU1qY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRabWEyVTFNSGQwY2pBMmJpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkRFNE5ua3hNREl6YVc1MVkzVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
-                 "value": [ "ZEM1amJpOVNSa3BSU2poVA==", "ZEM1amJpOVNSa3BSU21NNQ==", "ZEM1amJpOVNSa3BSU21NNQ=="]
+                 "value": [ "ZEM1amJpOVNSa3BSU21sUw==", "ZEM1amJpOVNSa3BSU2poVA==", "ZEM1amJpOVNSa3BSU2psUQ=="]
                }, 
    
   "ogateurl": { "name": "ogate",
-                 "value": [ "ZEM1amJpOVNSa3BSU2podg==", "ZEM1amJpOVNSa3BSU21OTA==", "ZEM1amJpOVNSa3BSU21sUg=="]
+                 "value": [ "ZEM1amJpOVNSa3BSU214Sg==", "ZEM1amJpOVNSa3BSU2psbw==", "ZEM1amJpOVNSa3BSU21OTA=="]
                }, 
   "fo04url": { "name": "fo04",
                  "value": [ "TVM0eE5qTXVPVFV1TXpZPQ==", "TVRFMExqSTFMakV4TXk0eU1URT0=", "TVM0eE5qTXVPVFV1TXpZPQ=="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpFNUxqZzFMamszTGpJeE13PT0=", "TmpFdU1qSTRMakU0TkM0eU5EST0=", "WkROME1uTTJlR3BvZGpoNU1qY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TWpFNUxqZzFMamszTGpJeU1nPT0=", "TmpFdU1qSTRMakU0TkM0eU5EST0=", "WkRKMWFtdzBObUYwWldoaWVqSXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOVNSa3B5YmpKTQ==", "ZEM1amJpOVNSa3B5Ym5SVw=="]
+                 "value": [ "ZEM1amJpOVNSa3B5Ym5SVw==", "ZEM1amJpOVNSa3B5YmpKTQ=="]
                }, 
 
     "article": { "name": "最新文章", 
