@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkRJeVozUXhZM1ZyY1RObFpEa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGMWIyUXpialF3YUc5b00zVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGeGRqVnVOVzl1Wm5CcGRESXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==",WkdOeWNXSmhielpsTlhWeFpTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGcE1qSXhhbnBtY21wdGQzQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRJd01IazFibWMxT0RKdmFESXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
-                 "fq": "WkhocVltZDNhekV6Tm1SMVpDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
+                 "value": [ "WkRJd01IazFibWMxT0RKdmFESXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhocVltZDNhekV6Tm1SMVpDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkROcVlUSmxabkV3YmpWaWMyd3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==",WkdabGJubHlkM1IwWW00NVl5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKamNYUnFNM1p4WTI5eGJITXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdsbVpqbDVOMnhtWW01amJpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "fq": "WkROaE0zTnVaalZ3TjJoaWRuY3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFMExqSTFMakV4Tmk0NE53PT0=", "TVRFNExqRTJNUzR4TmpndU1qRTI=", "TVRFMExqSTFMakV4Tmk0NE53PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl5TXk0NE9RPT0=", "TVRFNExqRTJOUzR6TkM0eE1EST0=", "WkRKamNYUnFNM1p4WTI5eGJITXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","TWpFNUxqZzFMakV3T0M0eE5URT0=", "TWpFNUxqZzFMakV3T0M0eE5UZz0=", "WkRGcE1qSXhhbnBtY21wdGQzQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="]
+                 "value": [ "TmpFdU1qSTRMakl5TXk0NE9RPT0=", "TVRFNExqRTJOUzR6TXk0eE1EYz0=", "WkdabGJubHlkM1IwWW00NVl5NWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","TmpFdU1qSTRMakl4T0M0eE9EWT0=", "TmpFdU1qSTRMakl4T0M0eE5UYz0=", "WkdOeWNXSmhielpsTlhWeFpTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxTmtWNQ==", "ZEM1amJpOUZlbkZ1Y1ZoQg==", "Ym1sbFpHc3VZWEIyY0dWaGFTNW5ZUzgyT0E9PQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxYWxORQ==", "ZEM1amJpOUZlbkZ1Y1ZoVg==", "ZG1odGFXa3VhRzVuYkc1MFozVXVZMll2TmpnPQ=="]
                }, 
 
     "article": { "name": "最新文章", 
