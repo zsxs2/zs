@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "Y214eWJDNXBibWgxYldGdVoyRnRaWE11WTI5dA==", "WlhWemJ5NWxaMkpoY1hWbGJHRXVZMjl0TG1GeQ==", "ZG5sbmR5NXNkV2xuYVdKNWRHVXVZMjl0TG1GeQ==","YVdwaGF5NWpablpoYkd4bFozSmhibVJsTG1Ocw==", "YUdodFpDNWhkWFJ2YzI5dFlYUnBZMkV1WTI5dA==", "WjNObmNDNXRkR2h2YjJSc2IyUm5aWE11WTI5dA=="],
-                 "fq": "WW1SeWJ5NWphWFJ5WVdoaGJHRnNMbU52TG1saw=="
+                 "value": [ "YUdodFpDNWhkWFJ2YzI5dFlYUnBZMkV1WTI5dA==", "YzNSaGRpNWxiR0oxYkd4a2IyY3VZMjl0TG1GeQ==", "YTJGdVpDNXliMk5yWlhSemRYQmxjbUpsTG5Kdg==","WW1SeWJ5NWphWFJ5WVdoaGJHRnNMbU52TG1saw==", "Y0hoMmRTNW5aVzl5WjJsaGFHbDBZMmd1WTI5dA==", "ZEhoeVpTNXphV1IwY21FdFlYSXVZMjl0TG1GeQ=="],
+                 "fq": "Y214eWJDNXBibWgxYldGdVoyRnRaWE11WTI5dA=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFNExqRTJNUzR4TnprdU1USXc=", "TVRFNExqRTJOeTQ1T0M0eU5EWT0=", "TmpFdU1qTXdMakl3TGpFMk53PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakl4TlM0M053PT0=", "TmpFdU1qTXdMakUzTGpJME5nPT0=", "YzNSaGRpNWxiR0oxYkd4a2IyY3VZMjl0TG1GeQ==","Y1hCallYcDNaQzV2Ym14NWQyRjVMbkIz", "Y1dGaGVISnRlQzVrWVdSMUxuQjM=", "ZDIxdWJYRnJMblJwWVc1c2FTNXdkdz09"]
+                 "value": [ "TmpFdU1qSTRMakl4TlM0M053PT0=", "TmpFdU1qSTRMakl4TkM0ME5RPT0=", "WlhWemJ5NWxaMkpoY1hWbGJHRXVZMjl0TG1GeQ==","YldsaVptOHVlR2x1ZDJWcExuQjM=", "Y214NmJuZ3ViV0Z1ZVdrdWNIYz0=", "YVdkaWMzbGlMbWgxYVdkMWFTNXdkdz09"]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZ3ZW05RQ==", "ZEM1amJpOUZSMWhyU0VOUA==", "Y1hSNGJIQmtjV1V1YVhSdmVtZDRjV291WTJZdk5qZz0="]
+                 "value": [ "ZEM1amJpOUZlbkZ3TkVwag==", "ZEM1amJpOUZSMWhyUlROUg==", "Y21SbWVHWXVhMnBrWldWdGF5NW5jUzgyT0E9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0
 ",
-                 "time": "1553122853"
+                 "time": "1553122980"
                } 
      
  }     
