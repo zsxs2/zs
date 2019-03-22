@@ -1,7 +1,7 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "YTNOallTNTBZV0Z3Y0hKaGFYTmhiSE11WTI5dA==", "ZEdWd1lTNWpZWE4wYkdWeWIyTnJhVzVqTG1OaA==", "ZW5Gb1lpNWtZWFpwYzJWdGNISmxjMkZ6TG1Ocw==","WldselpTNXpaWGg1YVc1emRHbHVZM1F1WTI5dA==", "ZFdsbmJpNXRiV2xrWlhSbGJuUnBiMjR1WTI5dA==", "Wm5OeWN5NTJZVzU2WlhSMFlXTnNaWFJ2TG1Obw=="],
-                 "fq": "Y1dac1p5NWpiV2xqYzJGc2RXUXVZMjl0TG1GeQ=="
+                 "value": [ "ZFdsbmJpNXRiV2xrWlhSbGJuUnBiMjR1WTI5dA==", "Wm5OeWN5NTJZVzU2WlhSMFlXTnNaWFJ2TG1Obw==", "ZDI1bVlpNW1hVzVoYkdkbGJtVnphWE11YjNKbg==","ZEhGcFpDNW5ZVzFwYm1kd2IybHVkSE11Ym1WMA==", "Wm5adWRTNTFibWxqYjIxdExXTnZjbkF1WTI5dA==", "Wm1acmNTNWtZWFpwWkhKNVlXNHVZMjl0TG1GMQ=="],
+                 "fq": "Y1hkNmNpNWlkWEpuWlcxbFpYTjBjbVV1Ym1WMA=="
                },
                
    "shorturl": { "name": "短网址", 
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFNExqRTJNUzR4TnpjdU5qZz0=", "TVRFNExqRTJOeTQ1T0M0eU5EWT0=", "TmpFdU1qTXdMakl3TGpFMk53PT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TWpjdU1UQTFMak16TGpZPQ==", "TmpFdU1qSTRMakl3T0M0M01BPT0=", "Wm1acmNTNWtZWFpwWkhKNVlXNHVZMjl0TG1GMQ==","WkhSbGVIUm9lQzVvWVc5a0xuQjM=", "WTNsNlpHRjFaUzVvWlhOb1lXNHVjSGM9", "Y1dwdmEzTnRMbWhsY1drdWNIYz0="]
+                 "value": [ "TWpjdU1UQTFMak16TGpNPQ==", "TmpFdU1qSTRMakU0TVM0eE5qaz0=", "Wm1acmNTNWtZWFpwWkhKNVlXNHVZMjl0TG1GMQ==","Y21waGJYQXVaM1ZwZEhVdWNIYz0=", "WTNWbWVYSndkUzU0YVc1M1pXa3VjSGM9", "WTNWdmNtNXBMbWQxYVhSMUxuQjM="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxV25kbw==", "ZEM1amJpOUZSMWhyWm0wdw==", "WkhGcWNteHhMbk51YUhSdFoya3VZMll2TmpnPQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxWkdOSw==", "ZEM1amJpOUZSMWhyU0VOWg==", "Wm5oblpteDBMbWgyYTJWaGJXcHhMbWRoTHpZNA=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0
 ",
-                 "time": "1553228077"
+                 "time": "1553228204"
                } 
      
  }     
