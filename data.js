@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkROdmJucDJibXQyWjNWeGJHTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKb2FtVmpNbWszTXpnNWQza3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkdkeWRIbG5OMmg0ZERoak5pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkROMGFHZHlhV293WlRjd2NITXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRVM1pIQjVkekl5YWpkbWRTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRFellqaDFiSGx5WTIwMFpuTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
+                 "value": [ "WkRKMWNXbDBZWGx2WjJOc2MzWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGbmVXTnhhelEyTlROcGJHVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkROaE5YaG1iMnMyTm1JM09EUXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkROMGFHZHlhV293WlRjd2NITXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRVM1pIQjVkekl5YWpkbWRTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRFellqaDFiSGx5WTIwMFpuTXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="],
                  "fq": "WkRNMmFHTmxhR2R5Y1hwdk5DNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFeExqSTFNUzR4TUM0Mk9RPT0=", "TVRFeExqSTFNUzR4TnpJdU5qQT0=", "TmpFdU1qTXhMakUyTWk0eU1EUT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TmpFdU1qSTRMakU0TXk0MU9RPT0=", "TmpFdU1qTXdMalEzTGpFMU53PT0=", "Ykd0aWRucGtMbnBvWlc1bmJIVXVkRzl3","Wm10d2NHbDVMbVoxYkhVdWMzQmhZMlU9", "WTJGeWJtTndZM0F1WjJGdUxXVnVMbXhwZG1VPQ==", "Y1dGbWVXTjVaWGd1YldsdVoySmhhUzV6Y0dGalpRPT0="]
+                 "value": [ "TmpFdU1qTXhMakUyTWk0eU1EUT0=", "TmpFdU1qTXdMalEzTGpFMU53PT0=", "WTNkM1luaGpMbloxZFdFdWRHOXc=","WjJkbVlXTndMbVJsWm1FdWMzQmhZMlU9", "Y1dwbloyMHVjVzloWVM1MGIzQT0=", "Ym1abmVYTXVaMkZ1TFdWdUxtOXViR2x1WlE9PQ=="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxWkdOSw==", "ZEM1amJpOUZSMWhyYjFSSg==", "WkhGcGNHa3VlWEJuZDJOcFpTNW5jUzgyT0E9PQ=="]
+                 "value": [ "ZEM1amJpOUZlbkZxWVVZeg==", "ZEM1amJpOUZSMWhyTkd0TA==", "YW5odWVucHpkV291YjNSNGVHMW9jbTB1WjJFdk5qZz0="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "0D35F7294986F2DB2FEE689AD470693791671551",
                  "sha512": "f6f49be558304cffe23a8d2efb154825e92de3d25a7142d9d092eda0fa1d09cee4284a8f7fe80d3abec34d119113b7f9a38d5f2a3c30ec26e5a1a249b10517b0
 ",
-                 "time": "1562476017"
+                 "time": "1562476155"
                } 
      
  }     
