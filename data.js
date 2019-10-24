@@ -1,6 +1,6 @@
 var feed_data = {  
     "domain":  { "name": "当前域名", 
-                 "value": [ "WkROcGRUWmhPR0kzZEdjellpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRJeE5UTjJiVFprYWpVNWVIQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkhJMGVEZHNlWFJsYURkdVlTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==","WkRGbU1uaGpNbTk1YkdSbk1pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRKemNXNW9hamhzZDIwM2NEWXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRGbU1uaGpNbTk1YkdSbk1pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
+                 "value": [ "WkROcGRUWmhPR0kzZEdjellpNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRFNWIyMWtiRGh4Tm1vd2NuQXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==", "WkRKMk0yczBjWE5qWTJ4bWJUVXVZMnh2ZFdSbWNtOXVkQzV1WlhRPQ==","WkhaNWFqWjRhbU4zY1dGaWRDNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkhJMGVEZHNlWFJsYURkdVlTNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ==", "WkRGbU1uaGpNbTk1YkdSbk1pNWpiRzkxWkdaeWIyNTBMbTVsZEE9PQ=="],
                  "fq": "WkRKdmFtRjJZVzFtZEdRemVIa3VZMnh2ZFdSbWNtOXVkQzV1WlhRPQ=="
                },
                
@@ -15,10 +15,10 @@ var feed_data = {
                  "value": [ "TVRFNExqRTJOeTR4TURRdU1USXk=", "TVRFeExqSTBNUzQ0Tnk0NQ==", "TmpFdU1qSTRMakUzTmk0eE5EQT0="]
                }, 
   "longacting": { "name": "longdomain",
-                 "value": [ "TlRJdU1UazJMakkwT1M0NU13PT0=", "ZUcxdWIyWmhjaTVtZFdKaGJ5NXpjR0ZqWlE9PQ==", "TmpFdU1qSTRMakUzTmk0eE5EQT0=","YkdSNmJtVjNMbWRoYmkxbGJpNXdjbTg9", "YjNobGRIRmljUzVuWVc0dFpXNHVjM0JoWTJVPQ==", "TmpFdU1qSTRMakl4TWk0eU5EWT0="]
+                 "value": [ "TlRJdU1UazJMakkwT1M0NU13PT0=", "ZVhKaWQybHdMbWRoYmkxbGJpNTBiM0E9", "TWpjdU1UQTFMak15TGpJME1BPT0=","YzJ0emNXWmlhWGd1ZFhWNllTNTBiM0E9", "ZEhOamRtVXVkR2xoYm1SaGJ5NXpjR0ZqWlE9PQ==", "TmpFdU1qSTRMakl4TWk0eU5EWT0="]
                },
   "ogColl": { "name": "网门",
-                 "value": [ "ZEM1amJpOUZlbkZxZFdOSQ==", "ZEM1amJpOUZSMWhyYlVWcA==", "ZVhCMGJYY3VZWGQ1Y0dzdVoyRXZOamc9"]
+                 "value": [ "ZEM1amJpOUZlbkZxVEZkaQ==", "ZEM1amJpOUZSMWhyVjNoQw==", "Y1hGeGFYWXVZV1J6ZUcxc1lpNW5jUzgyT0E9PQ=="]
                }, 
 
     "article": { "name": "最新文章", 
@@ -87,7 +87,7 @@ var feed_data = {
                  "sha1": "4982F6494AEB53EA96F64B5306DF1FD607A17BFD",
                  "sha512": "E2DE493E6B41FD4792AA6DC9096C5BF77DDB0068AC28E2B142BAB28BF49D041EBD689AE8E8FE5B23315469DE1505F4A5C5FF974A4FA011B67ED8B285A29676AF
 ",
-               "time": "1571893272"
+               "time": "1571893409"
                } 
      
  }     
